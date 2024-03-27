@@ -14,6 +14,9 @@ Nessa aplicação temos 2 tipos de usuários, os comuns e lojistas, ambos têm c
 - Antes de finalizar a transferência, é consultado um serviço autorizador externo.
 - No recebimento de pagamento, o usuário ou lojista recebem uma notificação avisando que foi feito o pagamento.
 
+## Screenshots
+
+![alt text](https://i.imgur.com/OTHCnuZ.png)
 
 ## Autores
 
